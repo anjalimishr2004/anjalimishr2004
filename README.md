@@ -44,7 +44,7 @@
 ##  Connect With Me
 
  Email: am4586295@gmail.com  
- LinkedIn: (https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/anjali-mishra-150794329/)
+ LinkedIn: https://www.linkedin.com/in/anjali-mishra-150794329/
 
 ---
 
