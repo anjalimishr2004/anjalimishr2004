@@ -262,7 +262,7 @@ Add project screenshots here.
 **Anjali Mishra**
 
 GitHub:
-https://github.com/umaa2404
+https://github.com/anjalimishr2004
 
 ```
 ```
