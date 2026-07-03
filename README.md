@@ -302,3 +302,5 @@ HTML | CSS | JavaScript
 
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
+🐍 Contribution Snake
+Snake animation
