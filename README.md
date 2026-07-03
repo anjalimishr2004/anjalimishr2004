@@ -144,7 +144,7 @@ Add website screenshots here.
 **Anjali Mishra**
 
 GitHub:
-https://github.com/umaa2404
+https://github.com/anjalimishr2004
 
 ```
 ```
@@ -302,5 +302,4 @@ HTML | CSS | JavaScript
 
 </p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
-🐍 Contribution Snake
-Snake animation
+https://github.com/abhinendraSingh3/abhinendraSingh3#-contribution-snake
