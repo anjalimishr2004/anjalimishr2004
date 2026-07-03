@@ -1,81 +1,87 @@
-# Hi, I'm Anjali Mishra
-
-I'm a Computer Science student with an interest in software development and problem solving. I enjoy building web applications, learning new technologies, and continuously improving my programming skills. I'm currently exploring full-stack development while strengthening my understanding of data structures and algorithms.
-
----
-
-## About Me
-
-* Computer Science undergraduate
-* Interested in Full-Stack Development
-* Currently learning the MERN Stack and Data Structures & Algorithms
-* Passionate about building practical projects
-* Open to internships, collaborations, and open-source contributions
-
----
-
-## Tech Stack
-
-**Languages**
-
-* Java
-* JavaScript
-* HTML
-* CSS
-
-**Frameworks & Libraries**
-
-* React
-* Node.js
-* Express.js
-
-**Database**
-
-* MongoDB
-
-**Tools**
-
-* Git
-* GitHub
-* VS Code
-
----
-
-## GitHub Stats
-
+<h1 align="center">Anjali Mishra</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjalimishr2004&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishr2004&layout=compact&theme=github_dark&hide_border=true" height="170"/>
+Computer Science Student • Full Stack Developer • Always Learning
 </p>
 
 ---
 
-## What I'm Working On
+### About
+
+I'm a Computer Science student who enjoys building web applications and learning how software works behind the scenes. I like turning ideas into projects and continuously improving my problem-solving skills through development and coding challenges.
+
+Currently, I'm focused on full-stack development, strengthening my DSA skills, and building projects that solve real-world problems.
+
+---
+
+### Tech Stack
+
+```text
+Languages      Java • JavaScript • HTML • CSS
+
+Frontend       React
+
+Backend        Node.js • Express.js
+
+Database       MongoDB
+
+Tools          Git • GitHub • VS Code
+```
+
+---
+
+### Current Focus
 
 * Building full-stack web applications
-* Improving problem-solving skills through DSA
-* Learning backend development and REST APIs
-* Exploring software engineering best practices
+* Learning backend architecture and REST APIs
+* Improving Data Structures & Algorithms
+* Exploring clean code and software design principles
 
 ---
 
-## Goals
+### GitHub Analytics
 
-* Build projects that solve real-world problems
-* Contribute to open-source projects
-* Gain industry experience through internships
-* Continue learning and improving as a developer
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anjalimishr2004&show_icons=true&theme=github_dark&hide_border=true"/>
 
----
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishr2004&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-## Connect With Me
-
-GitHub: https://github.com/anjalimishr2004
-
-LinkedIn: Add your LinkedIn profile here
-
-Email: Add your email here
+<p align="center">
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishr2004&theme=github-dark-blue&hide_border=true"/>
+</p>
 
 ---
 
-> "The best way to learn is by building."
+### Selected Projects
+
+You'll find projects focused on:
+
+* Full Stack Web Development
+* Java Applications
+* Frontend UI Development
+* REST APIs
+* Academic and Personal Projects
+
+I'm always working on something new and updating my repositories as I learn.
+
+---
+
+### Let's Connect
+
+<p align="left">
+<a href="https://github.com/anjalimishr2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
+</a>
+</p>
+
+---
+
+> *"Learning by building, improving with every commit."*
