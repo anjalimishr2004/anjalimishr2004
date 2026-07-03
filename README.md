@@ -1,87 +1,41 @@
-<h1 align="center">Anjali Mishra</h1>
-<p align="center">
-Computer Science Student • Full Stack Developer • Always Learning
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
+### Frontend
 
-### About
-
-I'm a Computer Science student who enjoys building web applications and learning how software works behind the scenes. I like turning ideas into projects and continuously improving my problem-solving skills through development and coding challenges.
-
-Currently, I'm focused on full-stack development, strengthening my DSA skills, and building projects that solve real-world problems.
-
----
-
-### Tech Stack
-
-```text
-Languages      Java • JavaScript • HTML • CSS
-
-Frontend       React
-
-Backend        Node.js • Express.js
-
-Database       MongoDB
-
-Tools          Git • GitHub • VS Code
-```
-
----
-
-### Current Focus
-
-* Building full-stack web applications
-* Learning backend architecture and REST APIs
-* Improving Data Structures & Algorithms
-* Exploring clean code and software design principles
-
----
-
-### GitHub Analytics
-
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anjalimishr2004&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishr2004&layout=compact&theme=github_dark&hide_border=true"/>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<p align="center">
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishr2004&theme=github-dark-blue&hide_border=true"/>
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </p>
 
----
+### Database
 
-### Selected Projects
-
-You'll find projects focused on:
-
-* Full Stack Web Development
-* Java Applications
-* Frontend UI Development
-* REST APIs
-* Academic and Personal Projects
-
-I'm always working on something new and updating my repositories as I learn.
-
----
-
-### Let's Connect
-
-<p align="left">
-<a href="https://github.com/anjalimishr2004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</a>
-
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
-</a>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
----
+### Tools
 
-> *"Learning by building, improving with every commit."*
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
