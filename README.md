@@ -1,305 +1,116 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20Profile&fontSize=45&animation=fadeIn">
-<h1 align="center">
+ # Hi there, I'm Anjali Mishra 👋
 
-Hi 👋, I'm Anjali Mishra
-
-</h1>
-
-
-<h3 align="center">
-
-Full Stack Web Developer | Computer Science Student
-
-</h3>
-
-
+<h3 align="center">Aspiring Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&width=600&lines=Frontend+Developer;HTML+CSS+JavaScript+Learner;Building+Creative+Projects;Learning+MERN+Stack">
-
+  <a href="https://github.com/anjalimishr2004">
+    <img src="https://komarev.com/ghpvc/?username=anjalimishr2004&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  </a>
 </p>
-<img align="right" width="350"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-## 👩‍💻 About Me<b></b>
-
-
-✨ Passionate about building modern and responsive websites.
-
-
-🎓 Computer Science Student
-
-
-🌱 Currently Learning:
-
-- JavaScript
-- React
-- Node.js
-- MongoDB
-- Data Structures
-
-
-🚀 Working on:
-
-- Frontend Projects
-- Personal Portfolio
-- Web Applications
-## 🛠️ Tech Stack <b></b>
-
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,nodejs,mongodb,git,github,vscode,mysql,python">
-
-</p>
-## 🚀 Projects
-
-
-```md
-# 🏨 Hotel Management Website
-
-A modern and responsive **Hotel Management Website** designed to provide users with an easy way to explore hotels, rooms, services, and booking information.
-
-This project focuses on creating a smooth user experience with an attractive interface and organized hotel details.
 
 ---
 
-## 🌟 Features
+## 👩‍💻 About Me
 
-✅ Beautiful homepage design  
-✅ Hotel rooms showcase  
-✅ Room details and pricing section  
-✅ Online booking interface  
-✅ Services section  
-✅ Customer reviews section  
-✅ Contact and location information  
-✅ Fully responsive design  
+- 🎓 Computer Science student passionate about software development.
+- 🌱 Currently learning **MERN Stack**, **Data Structures & Algorithms**, and **System Design**.
+- 💻 I enjoy building responsive web applications and solving real-world problems through code.
+- 🚀 Always exploring new technologies and improving my development skills.
+- 🤝 Open to internships, collaborations, and open-source contributions.
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
+### Languages
 
----
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📂 Project Structure
+### Frameworks & Libraries
 
-```
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
 
-Hotel-Management-System/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
-├── assets/
-└── README.md
+### Database
 
-````
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+### Tools
 
-## 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/yourusername/Hotel-Management-Website.git
-````
-
-### Run Project
-
-Open:
-
-```
-index.html
-```
-
-in your preferred browser.
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📸 Screenshots
-
-Add website screenshots here.
-
----
-
-## 🔮 Future Enhancements
-
-* User authentication
-* Online payment integration
-* Admin dashboard
-* Database connectivity
-* Room availability system
-
----
-
-## 👩‍💻 Author
-
-**Anjali Mishra**
-
-GitHub:
-https://github.com/anjalimishr2004
-
-```
-```
-
-
-**Technologies:**
-HTML5 | CSS3 | JavaScript
-
-### 🚇 Delhi Metro Route Finder
-
-A web application to find metro routes.
-
-Technologies:
-
-HTML | CSS | JavaScript
-
-
-
----
-
-
-
-
----
-
-
-### 🛒 Hotel management Website
-
-Hotel managagement website frontend.
-
-Features:
-
-- Product cards
-- Navbar
-- Responsive layout
-
- ```md
-# 🚗 Delhi–Dehradun Expressway Website
-
-A responsive and informative web project based on the **Delhi–Dehradun Expressway**.  
-This website provides details about the expressway route, features, connectivity, and important project information.
-
-The Delhi–Dehradun Expressway is a major highway project connecting Delhi and Dehradun, designed to improve travel connectivity and reduce journey time between the two cities.
-
----
-
-## 🌟 Features
-
-✅ Modern and responsive design  
-✅ Expressway overview section  
-✅ Route and connectivity details  
-✅ Project highlights  
-✅ Image gallery  
-✅ Interactive user interface  
-✅ Mobile-friendly layout  
-
----
-
-## 🛠️ Technologies Used
-
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-
----
-
-## 📂 Project Structure
-
-```
-
-Delhi-Dehradun-Expressway/
-│
-├── index.html
-├── style.css
-├── script.js
-├── images/
-└── README.md
-
-````
-
----
-
-## 🚀 Getting Started
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/Delhi-Dehradun-Expressway.git
-````
-
-### Open Project
-
-Open `index.html` in your browser.
-
----
-
-## 📸 Screenshots
-
-Add project screenshots here.
-
----
-
-## 🔮 Future Improvements
-
-* Add interactive route map
-* Add traffic updates section
-* Add backend for user feedback
-* Add multilingual support
-
----
-
-## 👩‍💻 Author
-
-**Anjali Mishra**
-
-GitHub:
-https://github.com/anjalimishr2004
-
-```
-```
-
-
-Technologies:
-HTML | CSS | JavaScript
-🔗 View Project: https://github.com/umaa2404/Blog-Website
 ## 📊 GitHub Stats
 
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anjalimishr2004&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjalimishr2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 <p align="center">
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=umaa2404&show_icons=true&theme=tokyonight">
-
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishr2004&theme=tokyonight&hide_border=true"/>
 </p>
-## 📈 Contribution Activity
 
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=umaa2404&theme=tokyo-night">
-## 💡 Developer Quote
-
+## 🏆 GitHub Trophies
 
 <p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=anjalimishr2004&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+---
+
+## 🌱 Currently Learning
+
+- MERN Stack Development
+- REST APIs
+- Data Structures & Algorithms
+- System Design
+- SQL & Database Optimization
+
+---
+
+## 🎯 2026 Goals
+
+- 🚀 Build impactful full-stack projects
+- 💼 Secure a Software Development Internship
+- 🌍 Contribute to Open Source
+- 📚 Strengthen DSA and problem-solving skills
+- ⭐ Grow as a software engineer
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://github.com/anjalimishr2004">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Add these once available -->
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </p>
-## 👀 Profile Visitors
 
+---
 
-<p align="center">
+## 💭 Quote
 
-<img src="https://komarev.com/ghpvc/?username=umaa2404&label=Profile%20Views&color=blue&style=for-the-badge">
+> "Success is built one commit at a time."
 
-</p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer">
-https://github.com/abhinendraSingh3/abhinendraSingh3#-contribution-snake
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
