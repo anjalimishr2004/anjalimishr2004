@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Anjali Mishra</h1>
-<h3 align="center">Computer Science Student | Full Stack Developer | Lifelong Learner</h3>
+<h3 align="center">Computer Science Student | Web Developer | Lifelong Learner</h3>
 
 <p align="center">
   I'm passionate about building web applications, solving real-world problems, and continuously learning new technologies. I enjoy creating projects that challenge me and help me grow as a developer.
