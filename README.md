@@ -48,7 +48,6 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ---
@@ -72,6 +71,16 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjalimishr2004&theme=github-dark&hide_border=true"/>
 </p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/anjalimishr2004/anjalimishr2004/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
 
 ---
 
